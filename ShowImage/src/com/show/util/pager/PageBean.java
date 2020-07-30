@@ -4,7 +4,6 @@ import java.util.List;
 
 /**
  * 分页Bean，它会在各层之间传递！
- * @author 徐东忠
  *
  * @param <T>
  */

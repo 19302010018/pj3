@@ -3,7 +3,6 @@ package com.show.util.pager;
 /**
  * 分页所用的常量
  * 
- * @author 徐东忠
  *
  */
 public class PageConstants {

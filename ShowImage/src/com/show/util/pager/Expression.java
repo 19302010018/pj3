@@ -2,8 +2,6 @@ package com.show.util.pager;
 
 /**
  * 用于拼接SQL语句
- * 
- * @author 徐东忠
  *
  */
 public class Expression {

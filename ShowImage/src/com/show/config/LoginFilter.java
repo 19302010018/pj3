@@ -12,8 +12,6 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * 登录过滤器
- * 
- * @author 徐东忠
  *
  */
 public class LoginFilter implements Filter {

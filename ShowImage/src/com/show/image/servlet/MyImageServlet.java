@@ -21,8 +21,6 @@ import cn.itcast.servlet.BaseServlet;
 
 /**
  * 1. 图片管理
- * 
- * @author
  *
  */
 public class MyImageServlet extends BaseServlet {

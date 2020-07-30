@@ -1,9 +1,4 @@
 package com.show.image.pojo;
-
-/**
- * @author 徐东忠
- *
- */
 public class MyImage {
 	private Integer imageId;
 	private String title;

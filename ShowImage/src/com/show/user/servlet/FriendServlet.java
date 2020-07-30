@@ -16,9 +16,6 @@ import cn.itcast.servlet.BaseServlet;
 
 /**
  * 好友servlet 主要用来查询好友信息
- * 
- * @author
- *
  */
 public class FriendServlet extends BaseServlet {
 	private FriendService friendService = new FriendService();

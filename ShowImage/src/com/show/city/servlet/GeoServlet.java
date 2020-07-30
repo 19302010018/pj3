@@ -16,8 +16,6 @@ import net.sf.json.JSONArray;
 
 /**
  * 1.地理位置管理
- * 
- * @author
  *
  */
 public class GeoServlet extends BaseServlet {

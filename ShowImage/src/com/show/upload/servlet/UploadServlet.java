@@ -26,8 +26,6 @@ import cn.itcast.commons.CommonUtils;
 
 /**
  * 1.文件上传 2.上传到服务的webapps目录下
- * 
- * @author
  *
  */
 public class UploadServlet extends HttpServlet {
