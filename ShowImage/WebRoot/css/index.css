@@ -1,0 +1,17 @@
+.container-img {
+	width: 100%;
+	margin: 0px auto;
+
+}
+
+img {
+	max-width: 100%;
+}
+
+i.material-icons {
+	vertical-align: sub;
+	font-size: 110%;
+}
+.footer{
+	height: 50px;
+}
